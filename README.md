@@ -1,2 +1,11 @@
 # First-Step
-CS230 Group 1 Project
+
+# What is First-Step?
+ 
+# Table of Contents:
+* Business Plan
+  * 
+* Cultural Policy
+  *
+* Ethics Policy
+  * 
